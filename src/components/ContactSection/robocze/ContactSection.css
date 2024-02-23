@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("../../assets/fonts/Montserrat-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Edwardian";
+  src: url("../../assets/fonts/Edwardian Script ITC.ttf") format("truetype");
+}
+.kontakt-uklad {
+  display: flex;
+  align-items: stretch;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 400px;
+}
+
+.contact-image {
+  display: block;
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+}
